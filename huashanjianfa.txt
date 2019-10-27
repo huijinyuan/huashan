@@ -13,3 +13,4 @@ $ git push origin master
 change the file name: huashanjianfa.txt
 add, commit, and push again
 
+Edited by lhuc after clone. Now try to push to lhuc gitHub.
