@@ -10,3 +10,6 @@ origin  https://github.com/huijinyuan/huashan.git (fetch)
 origin  https://github.com/huijinyuan/huashan.git (push)
 $ git push origin master
 
+change the file name
+add, commit, and push again
+
