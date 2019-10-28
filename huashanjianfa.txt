@@ -13,3 +13,4 @@ $ git push origin master
 change the file name: huashanjianfa.txt
 add, commit, and push again
 
+test the cooperation inside the team, between ybuq and lhuc in 20:55 28.10.2019
