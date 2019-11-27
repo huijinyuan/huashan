@@ -12,10 +12,10 @@ $ git push origin master
 
 change the file name: huashanjianfa.txt
 add, commit, and push again
-// I add three rows and check. What will happen in Jenkins.  
+// I add two rows and check. What will happen in Jenkins.  
 I add one-row and check. What will happen in Jenkins.  
 I add one-row and check. What will happen in Jenkins.  
-I add one-row and check. What will happen in Jenkins.  
+
 
 test the cooperation inside the team, between ybuq and lhuc in 20:55 28.10.2019
 
